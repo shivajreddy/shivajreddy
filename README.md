@@ -1,6 +1,6 @@
 # Hello there, I'm Shiva! <img src="/src/wave.gif" width="30px">
 
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
+<!-- <a href="https://shivajreddy.com/"><img src="/src/profile_banner.gif"></a> -->
 
 * 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
 
@@ -101,48 +101,3 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
 
 ---
-
-## 📕 Pinned Repositories
-
-<p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/Asmit2952/MsgByte_Chat-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MsgByte_Chat-App&hide_border=true&theme=radical" />
-</a>
-
-</p>
-
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
-
----
-
-<p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
