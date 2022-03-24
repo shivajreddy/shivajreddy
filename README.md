@@ -2,7 +2,7 @@
 
 <!-- <a href="https://shivajreddy.com/"><img src="/src/profile_banner.gif"></a> -->
 
-* 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
+* 📖 Pursuing my Full Stack Software Engineering degree from [Springboard Software Engineering Bootcamp](https://www.springboard.com/courses/software-engineering-career-track/).
 
 * 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
 
@@ -10,26 +10,23 @@
 
 * 💻 Currently learning [React](https://reactjs.org/) and [Next.js](https://nextjs.org/)
 
-When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
+When I am not coding, you'll find me designing homes, managing residential projects. Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/asmit-malakannawar/">
+	<a href="https://www.linkedin.com/in/kshivareddy/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/Asmit_2952">
+	<a href="https://twitter.com/Shivajreddy">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://dev.to/asmit2952">
-		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-	</a>
-        <a href="https://asmit2952.github.io/">
+  <a href="https://shivajreddy.com">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="https://asmit.bio.link/">
 		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
 	</a>
-        <a href="mailto:asmitbm2952002@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <a href="mailto:shivajreddy@outlook.com">
+		<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 	</a>
 </p>
 
@@ -77,27 +74,18 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/Apple-MacBook_Pro?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+<!-- 
 ## 📈 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
-</p>
+</p> -->
 
-## ✍🏻 Latest Blog Posts
+<!-- ## 🔝 Most used languages
 
-<!-- BLOG-POST-LIST:START -->
-- [7 biases of dev-tool product teams](https://dev.to/asmit2952/7-biases-of-dev-tool-product-teams-1ng5)
-- [Setting Windows PowerShell environment variables](https://dev.to/asmit2952/setting-windows-powershell-environment-variables-2glb)
-- [Integrating Chatwoot in your web dev project](https://dev.to/asmit2952/integrating-chatwoot-in-your-web-dev-project-43o9)
-- [Introduction to Docker](https://dev.to/asmit2952/introduction-to-docker-23jl)
-- [What are Containers?](https://dev.to/asmit2952/what-are-containers-3k10)
-<!-- BLOG-POST-LIST:END -->
-
-## 🔝 Most used languages
-
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" /> -->
 
 ---
