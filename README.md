@@ -1,4 +1,4 @@
-# Hello there, I'm Shiva! <img src="/src/wave.gif" width="30px">.
+# Hello there, I'm Shiva! <img src="/src/wave.gif" width="5px">
 
 <a href="https://shivajreddy.com/"><img src="/src/header_.png"></a>
 
