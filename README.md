@@ -1,6 +1,6 @@
 # Hello there, I'm Shiva! <img src="/src/wave.gif" width="30px">
 
-<!-- <a href="https://shivajreddy.com/"><img src="/src/profile_banner.gif"></a> -->
+<a href="https://shivajreddy.com/"><img src="/src/profile_banner.gif"></a>
 <a href="https://shivajreddy.com/"><img src="/src/header_.png"></a>
 
 * 📖 Pursuing my Full Stack Software Engineering degree from [Springboard Software Engineering Bootcamp](https://www.springboard.com/courses/software-engineering-career-track/).
@@ -23,10 +23,7 @@ When I am not coding, you'll find me designing homes, managing residential proje
   <a href="https://shivajreddy.com">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-	<a href="https://asmit.bio.link/">
-		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
-	</a>
-        <a href="mailto:shivajreddy@outlook.com">
+  <a href="mailto:shivajreddy@outlook.com">
 		<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 	</a>
 </p>
