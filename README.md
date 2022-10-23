@@ -2,7 +2,7 @@
 
 <a href="https://shivajreddy.com/"><img src="/src/header_.png"></a>
 
-* 📖 Pursuing my Full Stack Software Engineering degree from [Springboard Software Engineering Bootcamp](https://www.springboard.com/courses/software-engineering-career-track/).
+* 📖 Full Stack Software Engineering degree from [Springboard Software Engineering Bootcamp](https://www.springboard.com/courses/software-engineering-career-track/).
 
 * 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
 
