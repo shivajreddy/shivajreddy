@@ -19,7 +19,7 @@ When I am not coding, you'll find me designing homes, managing residential proje
 	<a href="https://twitter.com/Shivajreddy">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-  <a href="https://shivajreddy.com">
+  <a href="https://shivareddy.io">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
   <a href="mailto:shivajreddy@outlook.com">
