@@ -8,7 +8,7 @@
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
-* 💻 Currently working on [Spring] (https://www.java.com/en/](https://spring.io/)
+* 💻 Currently working on [Spring](https://spring.io/)
 
 When I am not coding, you'll find me designing homes, managing residential projects. Find out more about me & feel free to connect with me here:
 
