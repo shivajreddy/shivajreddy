@@ -1,6 +1,6 @@
 # Hello there, I'm Shiva! 👋🏽
 
-### 📄 Here's my latest [Resume](https://github.com/shivajreddy/shivajreddy/blob/main/ShivaReddy-Resume.pdf)
+### 📄 [Resume](https://github.com/shivajreddy/shivajreddy/blob/main/ShivaReddy-Resume.pdf)
 
 <a href="https://shivajreddy.com/"><img src="/src/header_.png"></a>
 
