@@ -1,4 +1,4 @@
-# Hello there, I'm Shiva! 👋🏽 | 📄 [Resume](https://github.com/shivajreddy/shivajreddy/blob/main/ShivaReddy-Resume.pdf)
+# Hello there, I'm Shiva! 👋🏽   |   📄 [Resume](https://github.com/shivajreddy/shivajreddy/blob/main/ShivaReddy-Resume.pdf)
 
 <a href="https://shivajreddy.com/"><img src="/src/header_.png"></a>
 
