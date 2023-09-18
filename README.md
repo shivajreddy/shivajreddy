@@ -20,19 +20,17 @@ Hobbies: BoardGames, Movies, Gaming, Editing-Dot-Files
 Commits: 968
 Stars: 14
 ```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" alt="catppuccin palette" width="400" height="20" />
+<p align="center">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#f5e0dc" src="https://via.placeholder.com/15/f5e0dc/000000?text=+" width="25" height="20" /><img alt="#cba6f7" src="https://via.placeholder.com/15/cba6f7/000000?text=+" width="25" height="20" /><img alt="#fab387" src="https://via.placeholder.com/15/fab387/000000?text=+" width="25" height="20" /><img alt="#f9e2af" src="https://via.placeholder.com/15/f9e2af/000000?text=+" width="25" height="20" /><img alt="#a6e3a1" src="https://via.placeholder.com/15/a6e3a1/000000?text=+" width="25" height="20" /><img alt="#89dceb" src="https://via.placeholder.com/15/89dceb/000000?text=+" width="25" height="20" /><img alt="#89b4fa" src="https://via.placeholder.com/15/89b4fa/000000?text=+" width="25" height="20" /><img alt="#cdd6f4" src="https://via.placeholder.com/15/cdd6f4/000000?text=+" width="25" height="20" />
 </p>
 </div>
 <br/>
 
 
-# Hello there, I'm Shiva! 👋🏽 
+## Hello there, I'm Shiva! 👋🏽 
 
 * 📖 Full Stack Software Engineering degree from [Springboard Software Engineering Bootcamp](https://www.springboard.com/courses/software-engineering-career-track/).
 
