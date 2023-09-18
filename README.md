@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="./src/shiva_boo.jpg" alt="Shiva Reddy"  height="400" /> 
+<img align="left" src="./src/shiva_boo.jpg" alt="Shiva Reddy"  width="300" /> 
 
 ```csharp
 shivajreddy@github
