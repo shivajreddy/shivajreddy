@@ -20,7 +20,7 @@ Hobbies: BoardGames, Movies, Gaming, Editing-Dot-Files
 Commits: 968
 Stars: 14
 ```
-<p align="center">
+<p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
