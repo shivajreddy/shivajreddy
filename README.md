@@ -3,7 +3,7 @@
 ```
 <div>
 
-<img align="left" src="./src/Shiva_boo_.jpg" alt="Shiva Reddy"  width="320" /> 
+<img align="left" src="./src/shiva_boo_.png" alt="Shiva Reddy"  width="320" /> 
 
 ```csharp
 shivajreddy@github
