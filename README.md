@@ -1,4 +1,4 @@
-```zsh
+```bash
 > neofetch
 ```
 <div>
