@@ -31,13 +31,15 @@ Stars: 14
 
 ## Hello there, I'm Shiva! 👋🏽 
 
-* 📖 Full Stack Software Engineering degree from [Springboard Software Engineering Bootcamp](https://www.springboard.com/courses/software-engineering-career-track/).
+* 🔨 Building [Nexus] (https://github.com/shivajreddy/Nexus), the central system for home, to expedite home building.
 
-* 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
+* 📖 Education/Learning: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/), 1 Year learning core DSA @ [Coachable](), Spent 5000+ hrs. on programming and counting.
+
+* 🧑🏻‍💻 Software is my passion (it's an understatement)
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
-* 💻 Currently learning [C++](https://en.cppreference.com/w/Main_Page)
+* 💻 Languages I want to learn/get good at [Rust](https://www.rust-lang.org/), [C++](https://en.cppreference.com/w/Main_Page)
 
 When I am not coding, you'll find me designing homes, managing residential projects. Find out more about me & feel free to connect with me here:
 
