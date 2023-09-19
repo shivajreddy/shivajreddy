@@ -31,7 +31,7 @@ Stars: 14
 
 ## Hello there, I'm Shiva! 👋🏽 
 
-* 🔨 Building [Nexus](https://github.com/shivajreddy/Nexus), the central system for home, to expedite home building.
+* 🔨 Building [Nexus](https://github.com/shivajreddy/Nexus), the central system for General Contractors, to expedite home building.
 
 * 📖 Education/Learning: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/), 1 Year learning core DSA @ [Coachable](https://www.coachable.dev/program), Spent 5000+ hrs. (while maintaining a full time job) on programming and counting.
 
