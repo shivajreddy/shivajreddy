@@ -11,11 +11,11 @@ shivajreddy@github
 OS: Arch Linux
 Shell: zsh 5.8
 Location: Richmond, VA
-Frameworks: Spring, FastAPI, React, SwiftUI
-Languages: Java, Python, JS, TS, Swift
-Learning: Swift, Rust
+Frameworks: Spring, FastAPI, React, Express, SwiftUI
+Languages: Rust, Java, Python, TS
+Learning: Rust
 Theme: Catppuccin
-Font: Berkeley Mono
+Font: JetBrains Mono, Berkeley Mono
 Hobbies: BoardGames, Movies, Gaming, Editing-Dot-Files
 Commits: 968
 Stars: 14
