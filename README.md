@@ -1,5 +1,5 @@
-```bash
-> neofetch
+```zsh
+~ > neofetch
 ```
 <div>
 
