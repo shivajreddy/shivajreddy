@@ -5,10 +5,10 @@
 
 <img align="left" src="./src/shiva_boo_.png" alt="Shiva Reddy"  width="320" /> 
 
-```csharp
+```zsh
 shivajreddy@github
 -------------------------
-OS: MacOS
+OS: Arch Linux
 Shell: zsh 5.8
 Location: Richmond, VA
 Frameworks: Spring, FastAPI, React, SwiftUI
@@ -35,7 +35,7 @@ Stars: 14
 
 * 📖 Education/Learning: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/), 1 Year learning core DSA @ [Coachable](https://www.coachable.dev/program), Spent 5000+ hrs. (while maintaining a full time job) on programming and counting.
 
-* 🧑🏻‍💻 Software is my passion ❤️ (is an understatement)
+* 🧑🏻‍💻 Software is my passion ❤️
 
-* 💻 Languages I am/want to learn [Rust](https://www.rust-lang.org/), [C++](https://en.cppreference.com/w/Main_Page)
+* 💻 Languages I want to get good at [Rust](https://www.rust-lang.org/)
 
