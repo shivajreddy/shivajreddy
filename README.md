@@ -1,5 +1,5 @@
-```zsh
-~ > neofetch
+```bash
+$ neofetch
 ```
 <div>
 
@@ -8,14 +8,14 @@
 ```zsh
 shivajreddy@github
 -------------------------
-OS: Arch Linux
+OS: NIXOS
 Shell: zsh 5.8
 Location: Richmond, VA
 Frameworks: Spring, FastAPI, React, Express, SwiftUI
 Languages: Rust, Java, Python, TS
 Learning: Rust
-Theme: Catppuccin
-Font: JetBrains Mono, Berkeley Mono
+Theme: Rosé Pine
+Font: Berkeley Mono, IBM Plex Mono, JetBrains Mono
 Hobbies: BoardGames, Movies, Gaming, Editing-Dot-Files
 Commits: 968
 Stars: 14
