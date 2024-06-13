@@ -16,8 +16,8 @@ Languages: Rust, Java, Python, TS
 Learning: Rust
 Theme: Rosé Pine
 Font: Berkeley Mono, IBM Plex Mono, JetBrains Mono
-Pick Your Weapons: Nvim, Kitty, Obsidian, Brave, Spotify, Discord
-Hobbies: Chess, BoardGames, Movies, Reading
+Pick Your Weapons: Nvim, Kitty, Obsidian, Arc, Spotify, Discord
+Hobbies: Chess, Poker, BoardGames, Movies, Reading
 Commits: 968
 Stars: 14
 ```
