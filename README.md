@@ -34,7 +34,8 @@ Stars: 14
 
 * 🔨 Building [Nexus](https://github.com/shivajreddy/Nexus), the central system for General Contractors, to expedite home building.
 
-* 📖 Education/Learning: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/); 1 Year learning core DSA @ [Coachable](https://www.coachable.dev/program)
+* 📖 Education: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/)
+* 📖 Learning: Competitive Programming enthusiast
 
 * 🧑🏻‍💻 Software Engineering is my passion ❤️
 
