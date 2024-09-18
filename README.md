@@ -36,7 +36,7 @@ Stars: 14
 
 * 📖 Education/Learning: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/); 1 Year learning core DSA @ [Coachable](https://www.coachable.dev/program)
 
-* 🧑🏻‍💻 Software is my passion ❤️
+* 🧑🏻‍💻 Software Engineering is my passion ❤️
 
 * 💻 Languages I want to improve - [Rust](https://www.rust-lang.org/)
 
