@@ -41,6 +41,9 @@ Stars: 14
 
 * 💻 Languages I want to improve - [Rust](https://www.rust-lang.org/)
 
-* Toolkit: [neovim](https://neovim.io/), [wezterm](https://wezfurlong.org/wezterm/), [obsidian](https://obsidian.md/), [Spotify](https://open.spotify.com/user/w05jst42jkzj3ju6ynrvv3ged), Discord
-
-
+* Toolkit: 
+<a href="https://neovim.io/" target="_blank">neovim</a>, 
+<a href="https://wezfurlong.org/wezterm/" target="_blank">wezterm</a>, 
+<a href="https://obsidian.md/" target="_blank">Obsidian</a>, 
+<a href="https://open.spotify.com/user/w05jst42jkzj3ju6ynrvv3ged" target="_blank">Spotify</a>, 
+<a href="https://discord.com/" target="_blank">Discord</a>
