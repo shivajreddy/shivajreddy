@@ -16,7 +16,6 @@ Languages: Rust, Python, Java, TS
 Learning: Rust 🦀
 Theme: Catppuccin, Rosé Pine 
 Font: Berkeley Mono, IBM Plex Mono, JetBrains Mono
-Pick Your Weapons: [neovim](https://neovim.io/), [wezterm](https://wezfurlong.org/wezterm/), [obsidian](https://obsidian.md/), [Spotify](https://open.spotify.com/user/w05jst42jkzj3ju6ynrvv3ged), Discord
 Hobbies: Chess, Poker, BoardGames, Movies, Reading
 Commits: 968
 Stars: 14
@@ -35,9 +34,13 @@ Stars: 14
 * 🔨 Building [Nexus](https://github.com/shivajreddy/Nexus), the central system for General Contractors, to expedite home building.
 
 * 📖 Education: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/)
+
 * 📖 Learning: Competitive Programming enthusiast
 
 * 🧑🏻‍💻 Software Engineering is my passion ❤️
 
 * 💻 Languages I want to improve - [Rust](https://www.rust-lang.org/)
+
+* Toolkit: [neovim](https://neovim.io/), [wezterm](https://wezfurlong.org/wezterm/), [obsidian](https://obsidian.md/), [Spotify](https://open.spotify.com/user/w05jst42jkzj3ju6ynrvv3ged), Discord
+
 
