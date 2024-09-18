@@ -31,17 +31,17 @@ Stars: 14
 
 ## Hello there, I'm Shiva! 👋🏽 
 
-* 🔨 Building [Nexus](https://github.com/shivajreddy/Nexus), the central system for General Contractors, to expedite home building.
+* 🧑🏻‍💻 Software Engineering is my passion ❤️
+
+* 🔨 Building [Nexus](https://github.com/shivajreddy/Nexus), the central system for General Contractors, to expedite home building
 
 * 📖 Education: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/)
 
 * 📖 Learning: Competitive Programming enthusiast
 
-* 🧑🏻‍💻 Software Engineering is my passion ❤️
-
 * 💻 Languages I want to improve - [Rust](https://www.rust-lang.org/)
 
-* Toolkit: 
+* 🛠️ Toolkit: 
 <a href="https://neovim.io/" target="_blank">neovim</a>, 
 <a href="https://wezfurlong.org/wezterm/" target="_blank">wezterm</a>, 
 <a href="https://obsidian.md/" target="_blank">Obsidian</a>, 
