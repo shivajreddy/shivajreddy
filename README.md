@@ -1,5 +1,5 @@
 ```bash
-$ neofetch
+$ fastfetch
 ```
 <div>
 
@@ -22,8 +22,8 @@ Stars: 14
 ```
 </div>
 <br/>
-
-
+<br/>
+<br/>
 ## Hello there, I'm Shiva! 👋🏽 
 
 * 🧑🏻‍💻 Software Engineering is my passion ❤️
