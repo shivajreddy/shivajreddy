@@ -8,15 +8,14 @@ $ fastfetch
 ```zsh
 shivajreddy@github
 -------------------------
-OS: NIXOS
-Shell: zsh 5.8
+Aliases: smpl, shiv, shv
+OS: Linux
+Shell: fish
 Location: Richmond, VA
-Frameworks: Spring, FastAPI, React, Express, SwiftUI
-Languages: Rust, Python, Java, TS
-Learning: Rust 🦀
-Theme: Catppuccin, Rosé Pine 
+Languages: C, C++, Python, Java, JS
+Theme: Kanagawa,
 Font: Iosevka, Berkeley Mono
-Hobbies: Chess, Poker, BoardGames, Movies, Reading
+Hobbies: Chess, Poker, Games, Films, Reading
 Commits: 968
 Stars: 14
 ```
@@ -31,11 +30,11 @@ Stars: 14
 
 * 🔨 Building [Nexus](https://github.com/shivajreddy/Nexus), the central system for General Contractors, to expedite home building
 
-* 📖 Education: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/)
-
 * 📖 Competitive Programming enthusiast
 
-* 💻 Languages I want to improve - [Rust](https://www.rust-lang.org/)
+* 💻 Languages I want to improve - [Rust](https://www.rust-lang.org/), [C++](https://isocpp.org/)
+
+* 📖 Education: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/)
 
 * 🛠️ Toolkit: 
 <a href="https://neovim.io/" target="_blank">neovim</a>, 
