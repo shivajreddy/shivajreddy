@@ -13,10 +13,10 @@ OS: Linux
 Shell: fish
 Location: Richmond, VA
 Languages: C, C++, Python, Java, JS
-Theme: Kanagawa,
-Font: Iosevka, Berkeley Mono
-Hobbies: Chess, Poker, Games, Films, Reading
-Commits: 968
+Theme: Kanagawa
+Font: Iosevka, Berkeley
+Hobbies: Gym, Films, Chess, Poker, Games, Reading
+Contributions: 2535
 Stars: 14
 
 
@@ -32,13 +32,13 @@ Stars: 14
 
 * 🧑🏻‍💻 Software Engineering is my passion ❤️
 
-* 🔨 Building [Nexus](https://github.com/shivajreddy/Nexus), the central system for General Contractors, to expedite home building
+* 🔨 Building [Nexus](https://github.com/shivajreddy/Nexus), the central system for AEC industry
 
 * 📖 Competitive Programming enthusiast
 
-* 💻 Languages I want to improve - [Rust](https://www.rust-lang.org/), [C++](https://isocpp.org/)
+* 💻 Languages I love(currently) - [Go](https://go.dev/), [C++](https://isocpp.org/), [Elixir](https://elixir-lang.org/)
 
-* 📖 Education: 1 Year Full Stack bootcamp @ [Springboard](https://www.springboard.com/courses/software-engineering-career-track/)
+* 📖 Education: a culmination from academic universities and the wild west internet.
 
 * 🛠️ Toolkit: 
 <a href="https://neovim.io/" target="_blank">neovim</a>, 
