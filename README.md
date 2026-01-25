@@ -40,8 +40,12 @@ Stars: 14
 
 * 📖 Education: a culmination from academic universities and the wild west internet.
 
+* 💻 IDE: [Emacs](https://www.gnu.org/software/emacs/)
+  
+* 💻 OS: Emacs? and also Linux, Windows, Mac (yes i do use all of them all the time)
+  
 * 🛠️ Toolkit: 
-<a href="https://neovim.io/" target="_blank">neovim</a>, 
-<a href="https://alacritty.org/" target="_blank">alacritty</a>, 
-<a href="https://obsidian.md/" target="_blank">obsidian</a>, 
-<a href="https://open.spotify.com/user/w05jst42jkzj3ju6ynrvv3ged" target="_blank">spotify</a>, 
+<a href="https://neovim.io/" target="_blank">neovim(while I wait for emacs to start)</a>, 
+<a href="https://alacritty.org/" target="_blank">alacritty (lightweight & actually cross-platform)</a>, 
+<a href="https://orgmode.org/" target="_blank">Org Mode</a>, 
+<a href="https://open.spotify.com/user/w05jst42jkzj3ju6ynrvv3ged" target="_blank">spotify</a>
